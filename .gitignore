@@ -1,5 +1,6 @@
 # dependencies
 /node_modules
+webpack-demo/node_modules
 /.pnp
 .pnp.js
 
