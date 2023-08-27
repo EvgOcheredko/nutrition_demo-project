@@ -1,10 +1,10 @@
 # Nutrition (demo-project js)
 
 Modules:
-1. modal - контактное модальное окно на нескольких кнопках;
-2. forms - ответ на заполнение формы пользователем (+localStorage);
-3. tabs - переключатель изображений и описания стилей питания по нажатию названия;
-4. slider - слайдер под любое количество изображений, переключение стрелками + точками в лбом порядке;
-5. calc - калькулятор суточного количества калорий на основе данных введеных пользователем (+ localStorage);
-6. timer - классический таймер для отсчета времени;
-7. cards - карточки на классах, построенные на данных из бд.
+1. modal - contact modal window on several buttons;
+2. forms - response to the user filling out the form (+localStorage);
+3. tabs - switch images and descriptions of food styles by clicking on the names;
+4. slider - slider for any number of images, switching with arrows + dots in any order;
+5. calc - daily calorie calculator based on user input (+ localStorage);
+6. timer - classic timer for timing;
+7. cards - class cards based on data from the database.
